@@ -1,0 +1,28 @@
+P
+
+
+
+
+{     
+
+
+color:rgb(146, 157, 207);
+font-weight: lighter;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: x-large;
+
+
+
+}
+body{  
+    margin:auto;
+    max-width: 800px;
+background-color: rgb(228, 196, 220);
+
+
+}
+img{
+width: 400px;
+border: 10px;
+border-style: dashed;
+}
